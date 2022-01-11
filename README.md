@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @abiliobr
+- 👋 Hi, I’m Abilio
 - 👀 I’m interested in JavaScript, HTML,CSS, SQlite
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning ...
 
 <!---
 abiliobr/abiliobr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
