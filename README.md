@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abilio
-- 👀 I’m interested in JavaScript, HTML,CSS, SQlite
+- 👀 I’m interested in JavaScript, HTML,CSS, SQLite
 - 🌱 I’m currently learning ...
 
 <!---
