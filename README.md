@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abilio
 - 👀 I’m interested in JavaScript, HTML, CSS, SQLite
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning SQLite
 
 <!---
 abiliobr/abiliobr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
